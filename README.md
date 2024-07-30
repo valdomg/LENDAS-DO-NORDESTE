@@ -1,5 +1,7 @@
 # Game Design Document (GDD) do Jogo Lendas do Nordeste
 
+## Tarefas
+
 **Instituto Federal do Piauí - Campus Pedro II**
 
 **Número do Grupo:** XX  
